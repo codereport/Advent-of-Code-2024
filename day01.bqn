@@ -1,7 +1,6 @@
 # For up to date code:
 # https://github.com/codereport/bqn-code/blob/main/aoc/2024/day01.bqn
 
-
 ⟨UnitTest⟩ ⇐ •Import "/home/cph/bqn-test/test.bqn"
 
 s ⇐ •Import "/home/cph/bqn-code/lib/string.bqn"
