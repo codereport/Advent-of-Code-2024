@@ -9,7 +9,8 @@
 |   3   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 3!](https://www.youtube.com/watch?v=c58tokE3B-I) |
 |   4   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 4!](https://www.youtube.com/watch?v=dwjgsnBBQDo) |
 |   5   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 5!](https://www.youtube.com/watch?v=ekpNCRzDLAU) |
-|   6   |   ✅   |   ✅   |                                      maybe?                                      |
+|   6   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 6!](https://www.youtube.com/watch?v=d7BtkC6xK5I) |
+|   7   |   ✅   |   ✅   |                                      maybe?                                      |
 
 ### Other Video Solutions
 
