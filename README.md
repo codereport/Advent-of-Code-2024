@@ -10,7 +10,7 @@
 |   4   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 4!](https://www.youtube.com/watch?v=dwjgsnBBQDo) |
 |   5   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 5!](https://www.youtube.com/watch?v=ekpNCRzDLAU) |
 |   6   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 6!](https://www.youtube.com/watch?v=d7BtkC6xK5I) |
-|   7   |   ✅   |   ✅   |                                      maybe?                                      |
+|   7   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 7!](https://www.youtube.com/watch?v=84aiE5u-x3U) |
 
 ### Other Video Solutions
 
@@ -21,4 +21,4 @@
 
 #### Uiua
 
-* [Tacit Sanctuary (2)](https://www.youtube.com/watch?v=oisqHdxJyvA)
+* [Tacit Sanctuary (3)](https://www.youtube.com/watch?v=oisqHdxJyvA)
