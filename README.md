@@ -12,6 +12,7 @@
 |   6   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 6!](https://www.youtube.com/watch?v=d7BtkC6xK5I) |
 |   7   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 7!](https://www.youtube.com/watch?v=84aiE5u-x3U) |
 |   8   |   ✅   |   ✅   |                                      coming                                      |
+|   9   |   ✅   |       |                                      maybe?                                      |
 
 ### Other Video Solutions
 
