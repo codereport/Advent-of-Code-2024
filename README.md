@@ -14,6 +14,7 @@
 |   8   |   ✅   |   ✅   |                                      coming                                       |
 |   9   |   ✅   |   ✅   |                                      maybe?                                       |
 |  10   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 10!](https://www.youtube.com/watch?v=E2NiBwPJWeE) |
+|  11   |   ✅   |
 
 ### Other Video Solutions
 
