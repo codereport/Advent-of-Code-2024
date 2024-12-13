@@ -4,8 +4,8 @@
 u ⇐ •Import "/home/cph/bqn-test/test.bqn"
 s ⇐ •Import "/home/cph/bqn-code/lib/string.bqn"
 
-testInput ← "/home/cph/bqn-code/aoc/2024/data/09-test.txt"
-input     ← "/home/cph/bqn-code/aoc/2024/data/09.txt"
+testInput ← •path∾"/data/09-test.txt"
+input     ← •path∾"/data/09.txt"
 
 # Parsing
 Parse ← ¯1↓•file.Chars
@@ -15,15 +15,15 @@ Rdfb ← { id‿i ← ⟨⊑¯1↑𝕩,⊑/'.'=𝕩⟩ ⋄ s.Trim2 ¯1↓id⌾(i
 S2D  ← { •ParseFloat∘⥊¨𝕩 }                               # string to digits
 A    ← {
     m‿n ← (⌈÷⟜2)⊸⋈≠𝕩
-    t ← (S2D𝕩)/n↑⥊⍉(m⥊'.')≍˜↕m
+    t   ← (S2D𝕩)/n↑⥊⍉(m⥊'.')≍˜↕m
     +´↕∘≠⊸×Rdfb•_while_(∨´'.'=⊢)t
 }
 
 Ids ← ∾(1-˜≠)◶⟨⥊⟜0,⥊´⟩¨
 Ibfb ← { 𝕊n‿s: # insert block from back
     n    ↩ 1⊸+•_while_{1=≠⊑s↑˜-𝕩}n
-    c‿id ← ⊑s↑˜-n            # count‿id
-    m ← (1=≠)◶⟨0,c⊸≤⟩¨(-n)↓s # mask
+    c‿id ← ⊑s↑˜-n               # count‿id
+    m    ← (1=≠)◶⟨0,c⊸≤⟩¨(-n)↓s # mask
     { ∨´m ? i ← ⊑/m ⋄ { i ≥ n-˜≠s ? ⟨n+1,s⟩ ;
         front ← i↑s
         mid   ← <c⋈id
@@ -34,7 +34,7 @@ Ibfb ← { 𝕊n‿s: # insert block from back
 }
 
 B ← {
-    m ← ¬2|↕≠𝕩
+    m   ← ¬2|↕≠𝕩
     n‿f ← Ibfb•_while_(⊑<≠∘(⊢´)) 1⋈{𝕩⋈¨↕≠𝕩}⌾(m⊸/)S2D 𝕩
     +´↕∘≠⊸× Ids f
 }
