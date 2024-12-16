@@ -17,6 +17,8 @@
 |  11   |   ✅   |   ✅   |                                      coming                                       |
 |  12   |   ✅   |   ✅   |                                      coming                                       |
 |  13   |   ✅   |   ✅   |                                     no video                                      | [Cramer's Rule](https://en.wikipedia.org/wiki/Cramer%27s_rule) |
+|  14   |   ✅   |   ✅   |                                     no video                                      |
+|  15   |       |       |
 
 ### Other Video Solutions
 
