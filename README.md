@@ -2,8 +2,8 @@
 
 ### Solutions in BQN
 
-|  Day  |   A   |   B   |                                    Video Link                                     |
-| :---: | :---: | :---: | :-------------------------------------------------------------------------------: |
+|  Day  |   A   |   B   |                                    Video Link                                     |                             Trick                              |
+| :---: | :---: | :---: | :-------------------------------------------------------------------------------: | :------------------------------------------------------------: |
 |   1   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 1!](https://www.youtube.com/watch?v=ZlqY26kfUmE)  |
 |   2   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 2!](https://www.youtube.com/watch?v=TlJVXhS7Cuw)  |
 |   3   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 3!](https://www.youtube.com/watch?v=c58tokE3B-I)  |
@@ -14,6 +14,11 @@
 |   8   |   ✅   |   ✅   |                                      coming                                       |
 |   9   |   ✅   |   ✅   |                                      maybe?                                       |
 |  10   |   ✅   |   ✅   | [Advent of Code 2024 in BQN Day 10!](https://www.youtube.com/watch?v=E2NiBwPJWeE) |
+|  11   |   ✅   |   ✅   |                                      coming                                       |
+|  12   |   ✅   |   ✅   |                                      coming                                       |
+|  13   |   ✅   |   ✅   |                                     no video                                      | [Cramer's Rule](https://en.wikipedia.org/wiki/Cramer%27s_rule) |
+|  14   |   ✅   |   ✅   |                                     no video                                      |
+|  15   |       |       |
 
 ### Other Video Solutions
 
