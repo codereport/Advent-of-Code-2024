@@ -20,8 +20,13 @@
 #### BQN
 
 * [David Zwitser (4)](https://www.youtube.com/playlist?list=PLR01lagS_QPAX1K2WhJyCckS1btn0Dszy)
+* [dzaima (2)](https://www.youtube.com/@dzaima)
 * [TankorSmash (1)](https://www.youtube.com/watch?v=21rBsPi4gYs)
 
 #### Uiua
 
 * [Tacit Sanctuary (3)](https://www.youtube.com/watch?v=oisqHdxJyvA)
+
+#### Dyalog APL
+
+* [yernab ()](https://www.youtube.com/@yernab/videos)
