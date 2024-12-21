@@ -21,7 +21,7 @@
 |  15   |       |       |
 |  16   |       |       |
 |  17   |       |       |
-|  18   |   ✅   |       |
+|  18   |   ✅   |   ✅   |                                     no video                                      |
 
 ### Other Video Solutions
 
