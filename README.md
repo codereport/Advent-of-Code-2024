@@ -19,7 +19,7 @@
 |  13   |   ✅   |   ✅   |                                     no video                                      | [Cramer's Rule](https://en.wikipedia.org/wiki/Cramer%27s_rule) |
 |  14   |   ✅   |   ✅   |                                                                                   |
 |  15   |       |       |
-|  16   |       |       |
+|  16   |   🚧   |       |                                      maybe?                                       |
 |  17   |       |       |
 |  18   |   ✅   |   ✅   |                                     no video                                      |
 
