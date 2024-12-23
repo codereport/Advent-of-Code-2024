@@ -22,7 +22,7 @@
 |  16   |   🚧   |       |                                      maybe?                                       |
 |  17   |       |       |
 |  18   |   ✅   |   ✅   |                                     no video                                      |
-|  19   |   🚧   |       |                                     no video                                      |
+|  19   |   ✅   |   ✅   |                                     no video                                      |                        DP / Memoization                        |
 
 ### Other Video Solutions
 
