@@ -23,6 +23,11 @@
 |  17   |       |       |
 |  18   |   ✅   |   ✅   |                                     no video                                      |
 |  19   |   ✅   |   ✅   |                                     no video                                      |                        DP / Memoization                        |
+|  20   |       |       |
+|  21   |       |       |
+|  22   |   ✅   |       |                                     no video                                      |
+|  23   |       |       |
+
 
 ### Other Video Solutions
 
