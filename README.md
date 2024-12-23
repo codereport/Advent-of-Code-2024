@@ -22,6 +22,7 @@
 |  16   |   🚧   |       |                                      maybe?                                       |
 |  17   |       |       |
 |  18   |   ✅   |   ✅   |                                     no video                                      |
+|  19   |   🚧   |       |                                     no video                                      |
 
 ### Other Video Solutions
 
