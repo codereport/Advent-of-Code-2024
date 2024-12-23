@@ -25,7 +25,7 @@
 |  19   |   ✅   |   ✅   |                                     no video                                      |                        DP / Memoization                        |
 |  20   |       |       |
 |  21   |       |       |
-|  22   |   ✅   |       |                                     no video                                      |
+|  22   |   ✅   |   ✅   |                                     no video                                      |
 |  23   |       |       |
 
 
