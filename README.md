@@ -28,6 +28,9 @@
 |  22   |   ✅   |   ✅   |                                     no video                                      |
 |  23   |       |       |
 
+### BQN Leaderboard
+
+* [Link](https://gist.githubusercontent.com/mlochbaum/03d1b3ca918f324a08fb30f2be79fd5e/raw/aoc2024.svg)
 
 ### Other Video Solutions
 
